@@ -1,0 +1,7 @@
+
+  Remove Direcotry From Linux Ubuntu terminal 
+  
+  1- sudo rm -r <Directory Name>
+  
+  
+  
