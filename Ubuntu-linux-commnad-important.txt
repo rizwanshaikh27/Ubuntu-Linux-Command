@@ -1,7 +1,10 @@
 
   Remove Direcotry From Linux Ubuntu terminal 
+     
+     //Remove Directory from Terminal   
+  1- (sudo rm -r <Directory Name>)
+     
+     //Given Permission to File publiculy
+  2- (sudo chmod 400 piaic.pem)  
   
-  1- sudo rm -r <Directory Name>
-  
-  
-  
+  3- 
